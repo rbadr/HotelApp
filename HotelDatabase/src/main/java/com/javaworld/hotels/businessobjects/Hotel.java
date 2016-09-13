@@ -19,7 +19,7 @@ package com.javaworld.hotels.businessobjects;
  * a city, and a number of stars.
  */
 public class Hotel {
-	private Strin name;
+	private String name;
 	private String address;
 	private String city;
 	private int stars;
